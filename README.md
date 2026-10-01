@@ -1,6 +1,5 @@
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/19d4505d-eecd-428b-80b9-faa0efddf364" />
 
-# Credential Checker
 
 Credential Checker is a personal security utility that allows users to generate credentials, evaluate password entropy, and check credentials against known public data breach records. The application computes cryptographic hashes in the user's web browser and uses k-anonymity range queries so that cleartext passwords never cross the network. A scoped language model assistant is embedded to explain derived scan results and provide defensive account hygiene advice without accessing cleartext credentials.
 

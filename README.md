@@ -5,6 +5,9 @@ Credential Checker is a personal security utility that allows users to generate 
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/4d9e0b5b-80d6-43f7-9e06-9bb2f94ffb64" />
 
+## Try it out 
+- https://credchecker-iota.vercel.app
+
 
 ## Features
 
